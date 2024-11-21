@@ -30,7 +30,7 @@ app.use((req,res,next) =>{
 });
 
 app.get('/',(req,res)=>{
-  res.send("TejTech Server STATUS:[UP]");
+  res.send("mFinance Server STATUS:[UP]");
 });
 
 
